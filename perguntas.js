@@ -1,3 +1,4 @@
+
 criacartao(
     'Historia',
     'O que foi o absolutismo monárquico?',
