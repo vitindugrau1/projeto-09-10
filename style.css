@@ -4,6 +4,7 @@
     --destaque:#00FFFF;
     --preto:#000000;
     --branco:#ffffff;
+    --cartão-verso:#142b72;
 }
 body{
     background-color: var(--fundo);
@@ -75,4 +76,9 @@ footer{
     height: 100%;
     width: 100%;
     box-sizing: border-box;
+}
+.resposta-cartao{
+    transform: rotateY(180deg);
+    background-color: var(--cartão-verso);
+    border: 2px solid var(--destaque);
 }
