@@ -40,4 +40,7 @@ footer{
     border: 1px solid var(--destaque);
     position: absolute;
     text-align: left;
+    margin: 0.6rem;
+    padding: 0.6rem;
+    border-radius: 0.6rem;
 }
