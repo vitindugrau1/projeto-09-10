@@ -17,3 +17,8 @@ footer{
     width: 100%;
     text-align: center;
 }
+#container{
+    display: flex;
+    padding: 4rem;
+    
+}
