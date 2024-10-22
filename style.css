@@ -17,8 +17,14 @@ header{
     padding: 2rem;
     display: flex;
     justify-content: space-around;
-    
+
 }
+
+header a{
+    color: var(--branco);
+    text-decoration: none;
+}
+
 footer{
     position: fixed;
     bottom: 0;
